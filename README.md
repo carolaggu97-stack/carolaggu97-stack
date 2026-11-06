@@ -18,4 +18,4 @@ In November 2026 I completed the **Codecademy Professional Certification in Comp
 - **[tennis-game](https://github.com/carolaggu97-stack/tennis-game)**: a terminal tennis match with real scoring.
 ### Get in touch
  
-[LinkedIn](https://www.linkedin.com/in/carolina-aguilar-guarnido-627201174) · Open to new opportunities in Barcelona or remote
+[LinkedIn](https://www.linkedin.com/in/carolina-aguilar-guarnido-627201174) · Open to new opportunities
